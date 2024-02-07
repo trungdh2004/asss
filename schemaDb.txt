@@ -1,0 +1,32 @@
+profile
+    id 
+    email
+    username
+    password
+    image
+    
+    createdAt
+
+Questions
+    id
+    title
+    imageThumbnails
+    description
+
+    content
+    link
+    profileid
+
+    createdAt
+    updatedAt
+
+Comments
+    id
+    questionsId
+    profileid
+    username
+
+    content
+    
+    createdAt
+    
